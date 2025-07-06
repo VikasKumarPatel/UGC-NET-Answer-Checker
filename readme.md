@@ -1,6 +1,6 @@
 # UGC NET Answer Checker Chrome Extension
 
-![License](https://img.shields.io/github/license/your-username/ugc-net-answer-checker)
+![License](https://img.shields.io/github/license/VikasKumarPatel/UGC-NET-Answer-Checker)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 
 A Chrome extension to help UGC NET aspirants automatically compare their submitted answers with the official answer key, calculate marks, and export results to a CSV file.
@@ -25,7 +25,7 @@ A Chrome extension to help UGC NET aspirants automatically compare their submitt
 ## 🚀 Installation & Usage
 
 ### Option 1: Download Prebuilt Release (Recommended)
-1. Go to the [Releases](https://github.com/VikasKumarPatel/ugc-net-answer-checker/releases) page.
+1. Go to the [Releases](https://github.com/VikasKumarPatel/UGC-NET-Answer-Checker/releases) page.
 2. Download the latest `.zip` file (e.g., `ugcnet-extension-1.0.zip`).
 3. Extract the ZIP file to a folder.
 4. Open Chrome and go to `chrome://extensions/`
