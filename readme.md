@@ -17,7 +17,7 @@ A Chrome extension to help UGC NET aspirants automatically compare their submitt
 ---
 
 ## 🧰 Requirements
-- Google Chrome Browser
+- Google Chrome Browser Only (Edge, Brave also supported)
 - Extension works locally — no data is sent to external servers.
 
 ---
